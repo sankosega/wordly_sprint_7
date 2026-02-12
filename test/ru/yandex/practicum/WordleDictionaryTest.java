@@ -101,7 +101,7 @@ class WordleDictionaryTest {
     @Test
     void testGenerateHintPartialMatch() {
         String hint = WordleDictionary.generateHint("горка", "герой");
-        assertEquals("+-^--", hint);
+        assertEquals("+^+--", hint);
     }
 
     @Test

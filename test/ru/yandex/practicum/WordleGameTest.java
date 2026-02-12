@@ -158,11 +158,11 @@ class WordleGameTest {
 
     @Test
     void testYoReplacement() throws WordleException {
-        List<String> words = Arrays.asList("елка", "елки");
+        List<String> words = Arrays.asList("елочк", "ручка");
         WordleDictionary dict = new WordleDictionary(words, log);
-        WordleGame g = new WordleGame(dict, log, "елка");
+        WordleGame g = new WordleGame(dict, log, "елочк");
         
-        String hint = g.makeGuess("ёлка");
+        String hint = g.makeGuess("ёлочк");
         assertEquals("+++++", hint);
     }
 
