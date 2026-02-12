@@ -68,7 +68,7 @@ public class Wordle {
     private static void processGuess(WordleGame game, String input, PrintWriter log) {
         try {
             String hint = game.makeGuess(input);
-            System.out.println(input.toLowerCase());
+            System.out.println(WordleDictionary.normalize(input));
             System.out.println(hint);
             System.out.println();
         } catch (InvalidWordException e) {
