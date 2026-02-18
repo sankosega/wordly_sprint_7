@@ -1,0 +1,9 @@
+﻿C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\DictionaryLoadException.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\EmptyDictionaryException.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\InvalidWordException.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\Wordle.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\WordleDictionary.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\WordleDictionaryLoader.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\WordleException.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\WordleGame.java
+C:\Users\sanko\IdeaProjects\wordly_sprint_7\src\ru\yandex\practicum\WordNotFoundInDictionaryException.java
